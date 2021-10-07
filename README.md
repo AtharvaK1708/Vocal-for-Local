@@ -1,5 +1,5 @@
 # VOCAL FOR LOCAL #
-## GROUP : Chirag Mahajan, Tejas Hasabnis, Chirag Mahajan ## 
+## GROUP : Chirag Mahajan, Tejas Hasabnis, Atharva Kulkarni ## 
 The current pandemic situation has encouraged many people to start
 their own small business, but due to lack of connectivity and customer
 reach, upscaling becomes a difficult task for small business owners.
