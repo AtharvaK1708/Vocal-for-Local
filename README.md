@@ -1,5 +1,5 @@
 # VOCAL FOR LOCAL #
-## GROUP : Aditya Malwade-1911091, Rahul Panchal-1911097 ## 
+## GROUP : Chirag Mahajan, Tejas Hasabnis, Chirag Mahajan ## 
 The current pandemic situation has encouraged many people to start
 their own small business, but due to lack of connectivity and customer
 reach, upscaling becomes a difficult task for small business owners.
@@ -27,3 +27,9 @@ their products.
 requirements
 * Using website users can connect with the business of their choice.
 * Consumers can post feedback based on their experience.
+
+## Tech Stack Used ##
+* HTML, CSS, Javascript
+* Bootstrap
+* Django
+* SQL
