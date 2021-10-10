@@ -7,7 +7,7 @@ There is a need for an exclusive platform for consumers to connect with
 blooming small-scale business and for the business owners to showcase
 their products and to create contacts.
 
-## PROBLEM DEFINITIONS ##
+## PROBLEM DEFINITION ##
 Challenges are faced by businesses new in market to showcase their
 product to gain customer reach. There is a need for a platform to connect
 small business owners to consumers out there. Thus business owners can
